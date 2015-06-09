@@ -1,0 +1,14 @@
+amp-->1
+concern-->1
+director-->2
+elected-->1
+environmental-->1
+jack-->1
+management-->1
+mckinsey-->1
+o-->1
+resigned-->1
+succeeding-->1
+vance-->1
+wheeler-->1
+william-->1

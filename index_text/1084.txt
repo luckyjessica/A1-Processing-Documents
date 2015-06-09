@@ -1,0 +1,17 @@
+1985-->1
+3-->1
+4-->1
+8-->1
+bank-->1
+brisk-->1
+cited-->1
+economic-->1
+fell-->1
+force-->1
+growth-->1
+korea-->2
+labor-->1
+said-->1
+south-->1
+unemployment-->1
+year-->1

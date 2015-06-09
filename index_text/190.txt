@@ -1,0 +1,15 @@
+25-->1
+bank-->1
+board-->1
+company-->1
+director-->2
+e-->1
+edward-->1
+electric-->1
+expanding-->1
+holding-->1
+massachusetts-->1
+members-->1
+mulligan-->1
+named-->1
+president-->1

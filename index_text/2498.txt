@@ -1,0 +1,16 @@
+10-->1
+384-->1
+424-->1
+corp-->1
+earlier-->1
+ended-->1
+melville-->1
+million-->2
+retailer-->1
+rose-->1
+said-->1
+sales-->1
+saturday-->1
+specialty-->1
+weeks-->1
+year-->1

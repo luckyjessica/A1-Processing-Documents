@@ -1,0 +1,15 @@
+1-->1
+21-->2
+5-->1
+force-->1
+institute-->1
+labor-->1
+months-->1
+national-->1
+preceding-->1
+quarter-->1
+rose-->1
+said-->1
+spanish-->1
+statistics-->1
+unemployment-->1

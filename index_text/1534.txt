@@ -1,0 +1,17 @@
+canadian-->1
+chairman-->1
+gifts-->1
+greetingcards-->1
+l-->1
+maker-->1
+namedcorporate-->1
+operations-->1
+paper-->1
+powell-->1
+president-->1
+previously-->1
+senior-->1
+stationery-->1
+vice-->1
+william-->1
+wrapping-->1

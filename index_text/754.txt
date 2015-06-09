@@ -1,0 +1,16 @@
+0-->1
+1-->1
+9-->1
+cited-->1
+earlier-->1
+favorable-->1
+february-->1
+fell-->1
+force-->1
+government-->1
+labor-->1
+said-->1
+switzerland-->1
+unemployment-->1
+weather-->1
+year-->1

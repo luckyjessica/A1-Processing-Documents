@@ -1,0 +1,15 @@
+0-->2
+1-->1
+2-->1
+april-->1
+consumer-->1
+earlier-->1
+german-->1
+office-->1
+preliminary-->1
+pricesrose-->1
+report-->1
+said-->1
+thestatistics-->1
+west-->1
+year-->1

@@ -1,0 +1,17 @@
+alan-->1
+azar-->1
+country-->1
+director-->1
+industries-->1
+kahn-->2
+maker-->1
+mr-->1
+n-->1
+named-->1
+ofsun-->1
+president-->1
+r-->1
+richard-->1
+succeeds-->1
+thisapparel-->1
+whoretired-->1

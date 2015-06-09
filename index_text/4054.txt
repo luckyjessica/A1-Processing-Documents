@@ -1,0 +1,17 @@
+andrew-->1
+charge-->1
+company-->1
+department-->1
+director-->1
+legal-->1
+namedvice-->1
+p-->1
+paul-->1
+pharmaceutical-->1
+power-->1
+president-->1
+retired-->1
+sinternational-->1
+soden-->1
+succeeds-->1
+thedepartment-->1

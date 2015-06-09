@@ -1,0 +1,12 @@
+corp-->1
+date-->1
+dividend-->2
+ex-->2
+isn-->1
+later-->1
+mining-->1
+newmont-->1
+sell-->1
+selling-->1
+t-->1
+today-->1

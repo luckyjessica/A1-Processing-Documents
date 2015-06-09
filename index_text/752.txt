@@ -1,0 +1,16 @@
+1-->2
+2-->1
+bureau-->1
+central-->1
+consumer-->1
+february-->1
+growth-->1
+half-->1
+increase-->1
+israeli-->1
+january-->2
+prices-->1
+rose-->1
+s-->1
+said-->1
+statistics-->1

@@ -1,0 +1,12 @@
+05-->1
+22-->1
+87wall-->1
+day-->1
+j-->1
+journal-->2
+memorial-->1
+monday-->1
+observance-->1
+published-->1
+street-->2
+wall-->1

@@ -1,0 +1,16 @@
+adirector-->1
+chairmanand-->1
+colwell-->2
+g-->1
+graphicsproducts-->1
+huelskoetter-->1
+industries-->1
+maker-->1
+named-->1
+president-->1
+r-->1
+resigned-->1
+succeeding-->1
+supplier-->1
+thomas-->1
+wayne-->1

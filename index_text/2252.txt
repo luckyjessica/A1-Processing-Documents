@@ -1,0 +1,14 @@
+1-->2
+2-->2
+9-->1
+earlier-->1
+february-->1
+fell-->1
+force-->1
+government-->1
+january-->1
+labor-->1
+norwegian-->1
+said-->1
+unemployment-->1
+year-->1
